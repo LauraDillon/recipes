@@ -5,7 +5,7 @@
 * Lime
 * Salt
 * Cilantro
-* Pepper
+* Peppers
 
 ## Instructions
 
